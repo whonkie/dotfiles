@@ -1,4 +1,4 @@
-HOST_NAME=minima
+HOST_NAME=whonkie
 
 source ~/.nvm/nvm.sh
 nvm use stable
